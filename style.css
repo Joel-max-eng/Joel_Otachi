@@ -1,0 +1,85 @@
+#typing-effect div {
+    margin-top: 25px; 
+  }
+  header h{
+    color:gold;
+    font-weight: bolder;
+    font-size: 15px;
+  
+  }
+  h1{
+      color: aqua;
+      text-align: center;
+    }
+      #btn-container {
+        text-align: center;
+        margin-top: 10px;
+      }
+      
+      button {
+        padding: 10px 15px;
+        font-size: 14px;
+        border: none;
+        background-color: #007bff;
+        color: #fff;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: 0 10px;
+      }
+      
+      button:hover {
+        background-color: blue;
+      }
+      
+  ul{
+      margin:0;
+      padding:0;
+  }
+  header a{
+      color:blue;
+      text-decoration: none;
+      font: size 14px;
+  }
+  header li{
+  list-style-type: none;
+  padding: 0px;
+  }
+  header .highlight, header .current a{
+      color:aqua;
+      font-weight: bold;
+  }
+  header a:hover{
+      color:rgb(89, 0, 255);
+      font-weight: bold;
+  }
+  
+  span ,p , header , ul {
+      font-size: 16px;
+      font-family: 'Courier New', Courier, monospace;
+      color: white;
+      white-space: pre-line;
+      width: 750px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 25px;   
+  }
+  .typing-container {
+      padding-top: 20px;
+      float: initial;
+  }
+  .done{
+      float: right;
+      border-radius: 5px;
+      padding-top: 120px;
+      margin-right: 150px;
+      
+      
+  }
+    body{
+      background-color:hwb(0 9% 91%);
+    }
+    
+    
+    
+  
+  
