@@ -16,7 +16,7 @@ const textData = [
     link:'<a href="skills.html">click here!</a>'
   },
   {
-    text:"Find Projects have worked on here:  ",
+    text:"Find Projects have worked on: ",
     link:'<a href="https://github.com/joel-max-eng">Git hub!</a>'
   },
     {
