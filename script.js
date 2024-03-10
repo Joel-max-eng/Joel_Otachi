@@ -4,11 +4,11 @@ const textData = [
       link:''
     },
     {
-        text:"A Computer Technology Student and Researcher.  ",
+        text:"A Computer Technology Student and an avid learner.  ",
         link:''  
     },
     {
-      text:"I'm a Web Developer, loves creating and looking after website's technicalities.  ", 
+      text:"I'm a Web Developer, I do create responsive webpages, full website and look after website technicalities.  ", 
       link:''
   },
   {
