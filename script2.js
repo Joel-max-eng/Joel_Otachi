@@ -1,13 +1,13 @@
 const typingText = document.querySelector(".typing-text");
 const text = `WEB DEVELOPMENT
 
-Front-End
+Frontend
 ~Html
 ~Css
 ~Javascript
 ~Bootstrap
 
-Back-End
+Backend
 ~PHP
 ~Mysql
 ~C
