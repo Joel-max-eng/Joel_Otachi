@@ -37,7 +37,7 @@ const textData = [
     if (charIndex < sentence.length) {
       typingElement.innerHTML += sentence.charAt(charIndex);
       charIndex++;
-      setTimeout(() => typeText(sentence, link, index, charIndex), 25); // Typing speed (adjust as needed)
+      setTimeout(() => typeText(sentence, link, index, charIndex), 20); // Typing speed (adjust as needed)
     } else {
       typingElement.innerHTML += link;
       if (index < textData.length - 1) {
