@@ -13,4 +13,4 @@ function type() {
     }
 }
 
-const typingInterval = setInterval(type, 40);
+const typingInterval = setInterval(type, 20);
