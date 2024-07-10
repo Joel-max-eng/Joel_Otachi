@@ -4,13 +4,10 @@ const textData = [
       link:''
     },
     {
-        text:"A Computer Technology Student and an avid learner.  ",
+        text:"A Computer Technology and Science Student and an avid learner.  ",
         link:''  
     },
-    {
-      text:"I'm a Web Developer, I do create responsive webpages, full website and look after website technicalities.  ", 
-      link:''
-  },
+
   {
     text:"My Skills:  ",
     link:'<a href="skills.html">click here!</a>'
@@ -21,7 +18,7 @@ const textData = [
   },
     {
         text:"My Email Address: ",
-        link:'<a href="mailto:joelotachi@gmail.com">joelotachi@gmail.com</a>'
+        link:'<a href="mailto:i.geekytechie@gmail.com">i.geekytechie@gmail.com</a>'
     },
     {
         text:"My Twitter handle is: ",
