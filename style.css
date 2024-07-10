@@ -36,7 +36,7 @@
       padding:0;
   }
   header a{
-      color:rgb(169, 27, 212);
+      color:aqua;
       text-decoration: none;
       font: size 14px;
   }
@@ -49,7 +49,7 @@
       font-weight: bold;
   }
   header a:hover{
-      color:rgb(89, 0, 255);
+      color:#00ACC1;
       font-weight: bold;
   }
   
@@ -76,7 +76,7 @@
       
   }
     body{
-      background-color:hwb(0 9% 91%);
+      background-color:#000000;
     }
     
     
