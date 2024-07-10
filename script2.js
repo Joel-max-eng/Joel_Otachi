@@ -1,6 +1,57 @@
-//skills
 const typingText = document.querySelector(".typing-text");
-const text = "WEB DEVELOPMENT\n\nFront-End\n~Html\n~Css\n~Javascript\n~Bootstrap\n\nBack-End\n~PHP\n~Mysql\n~C\n~Java\n~Python\n\nAPP DEVELOPMENT\n\n~Platforms: Android,IOS\n~Languages: Java,Kotlin,swift\n~Frameworks: Flutter,React Native\n~Tools: Android Studio\n\nNETWORKING\n\nProtocols: TCP/IP,UDP,HTTP,HTTPS\nTechnologies: DNS,DHCP,VPN,VLAN,NAT\nHardware: Routers,Switches,Firewalls\nTools: CiscoPacket Tracer,Nmap\n\nCOMPUTER SKILLS\n~Ms Office\n~Google drive\n~Presentation Software\n~Hardware skills\n~Spreadsheets\n~Collaboration and Communication Software\n~Social Media\n~GIT\n~Penetration and Testing\n~Mobile Computing\n~Intelligent Systems\n~Computer Architecture\n~Structures and Algorithms\n~Installing Softwares\n~Troubleshooting\n~Computer applications\n~Operating Systems(Windows, linux)";
+const text = `WEB DEVELOPMENT
+
+Front-End
+~Html
+~Css
+~Javascript
+~Bootstrap
+
+Back-End
+~PHP
+~Mysql
+~C
+~Java
+~Python
+
+APP DEVELOPMENT
+~Platforms: Android,IOS
+~Languages: Java,Kotlin,swift
+~Frameworks: Flutter,React Native
+~Tools: Android Studio
+
+NETWORKING
+~Protocols: TCP/IP,UDP,HTTP,HTTPS
+~Technologies: DNS,DHCP,VPN,VLAN,NAT
+~Hardware: Routers,Switches,Firewalls
+~Tools: CiscoPacket Tracer,Nmap
+
+CLOUD COMPUTING
+~Platforms: AWS, Google Cloud, Microsoft Azure
+~Services: EC2, S3, Lambda, Azure Virtual Machines
+~Technologies: Docker, Kubernetes
+~Tools: AWS Management Console,  Azure Portal
+
+COMPUTER SKILLS
+~Ms Office
+~Google drive
+~Presentation Software
+~Hardware skills
+~Spreadsheets
+~Collaboration and Communication Software
+~Social Media
+~GIT
+~Penetration and Testing
+~Networking
+~Mobile Computing
+~Intelligent Systems
+~Computer Architecture
+~Structures and Algorithms
+~Installing Softwares
+~Troubleshooting Computer applications
+~Operating Systems(Windows, linux)
+`;
+
 let index = 0;
 
 function type() {
@@ -8,9 +59,12 @@ function type() {
     typingText.textContent = currentText;
     index++;
 
+    // Scroll to the bottom each time a new character is added
+    typingText.scrollTop = typingText.scrollHeight;
+
     if (index >= text.length) {
         clearInterval(typingInterval);
     }
 }
 
-const typingInterval = setInterval(type, 40);
+const typingInterval = setInterval(type, 20);
