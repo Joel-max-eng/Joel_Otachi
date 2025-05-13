@@ -4,7 +4,7 @@ const textData = [
       link:''
     },
     {
-        text:"A Computer Technology and Science Student & an avid learner.  ",
+        text:"A Computer Technologist & an avid learner.  ",
         link:''  
     },
 
