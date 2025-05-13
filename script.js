@@ -26,7 +26,7 @@ const textData = [
     },
     {
       text:"More about me can be found: ",
-      link:'<a href="https://linkedin.com/in/joel-otachi-03037535b" target="_blank">Linkedin!</a>'
+      link:'<a href="https://www.linkedin.com/in/nyanchoka-joel-otachi-993952365?" target="_blank">Linkedin!</a>'
     },
      // Add more objects for additional sentences with links
   ];
