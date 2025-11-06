@@ -20,6 +20,14 @@ APP DEVELOPMENT
 ~Frameworks: Flutter,React Native
 ~Tools: Android Studio
 
+GRAPHIC DESIGN
+~Adobe Photoshop
+~Illustrator
+~CorelDraw
+~Branding and motion Graphics
+~Printing and Merchandise Design
+~Social Media Management
+
 NETWORKING
 ~Protocols: TCP/IP,UDP,HTTP,HTTPS
 ~Technologies: DNS,DHCP,VPN,VLAN,NAT
@@ -68,3 +76,4 @@ function type() {
 }
 
 const typingInterval = setInterval(type, 20);
+
