@@ -1,13 +1,12 @@
 const textData = [
     {
-      text: "Hi, I'm Joel Otachi Nyanchoka, DEGREE. ",
+      text: "I’m a low-resource language NLP researcher currently pursuing
+          a Master’s degree in Computer Science at Maseno University, Kenya.
+         My research focuses on dataset creation, preprocessing, and synthetic data
+         generation for African languages particularly Swahili and Somali, leveraging 
+        sources such as Wikipedia, Hugging Face datasets, and parallel corpora.",
       link:''
     },
-    {
-        text:"A Computer Technologist & an avid learner.  ",
-        link:''  
-    },
-
   {
     text:"My Skills:  ",
     link:'<a href="skills.html">click here!</a>'
@@ -57,3 +56,4 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
