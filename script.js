@@ -16,16 +16,16 @@ const textData = [
     link:'<a href="https://github.com/joel-max-eng">Git hub!</a>'
   },
     {
-        text:"My Email Address: ",
+        text:"Email Address: ",
         link:'<a href="mailto:i.geekytechie@gmail.com">i.geekytechie@gmail.com</a>'
     },
     {
-        text:"My Twitter handle is: ",
+        text:"Twitter handle: ",
         link:'<a href="https://twitter.com/@joel_otachi" target="_blank">@joel_otachi</a>'  
     },
     {
-      text:"More about me can be found: ",
-      link:'<a href="https://www.linkedin.com/in/joel-otachi-79466738a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin!</a>'
+      text:"Linkedln Profile: ",
+      link:'<a href="https://www.linkedin.com/in/joel-otachi-79466738a">Linkedin!</a>'
     },
      // Add more objects for additional sentences with links
   ];
@@ -56,5 +56,6 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
