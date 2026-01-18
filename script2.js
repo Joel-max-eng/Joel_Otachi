@@ -20,6 +20,11 @@ APP DEVELOPMENT
 ~Frameworks: Flutter,React Native
 ~Tools: Android Studio
 
+Data & NLP
+~Transformers (basic)
+~Pandas, NumPy
+~Text cleaning, Preprocessing
+
 GRAPHIC DESIGN
 ~Adobe Photoshop
 ~Illustrator
@@ -76,4 +81,5 @@ function type() {
 }
 
 const typingInterval = setInterval(type, 20);
+
 
