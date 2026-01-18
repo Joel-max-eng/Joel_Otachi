@@ -25,7 +25,7 @@ const textData = [
     },
     {
       text:"More about me can be found: ",
-      link:'<a href="https://www.linkedin.com/in/joel-otachi-9a901536b?" target="_blank">Linkedin!</a>'
+      link:'<a href="https://www.linkedin.com/in/joel-otachi-79466738a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin!</a>'
     },
      // Add more objects for additional sentences with links
   ];
@@ -56,4 +56,5 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
