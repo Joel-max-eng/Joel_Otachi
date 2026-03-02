@@ -20,13 +20,10 @@ const textData = [
   text: "My work centers on dataset creation, preprocessing pipelines, and synthetic data generation for African languages, particularly Swahili, Somali and kalenjin.",
   link: ''
 },
-        {
-  text: "     {
+          {
   text: "My work centers on dataset creation, preprocessing pipelines, and synthetic data generation for African languages, particularly Swahili, Somali and kalenjin.",
   link: ''
-},",
-  link: ''
-},  
+},
   {
     text:"My Skills:  ",
     link:'<a href="skills.html">click here!</a>'
@@ -76,6 +73,7 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
 
