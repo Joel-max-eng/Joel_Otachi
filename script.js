@@ -12,7 +12,14 @@ const textData = [
   text: "My expertise spans end-to-end system implementation, delivering reliable and scalable technology solutions across diverse operational environments.",
   link: ''
 },
-
+{
+  text: "My expertise spans end-to-end system implementation, delivering reliable and scalable technology solutions across diverse operational environments.",
+  link: ''
+},
+{
+  text: "My expertise spans end-to-end system implementation, delivering reliable and scalable technology solutions across diverse operational environments.",
+  link: ''
+},     
   {
     text:"My Skills:  ",
     link:'<a href="skills.html">click here!</a>'
@@ -62,6 +69,7 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
 
