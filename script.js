@@ -5,17 +5,28 @@ const textData = [
     link:''
   },
   {
-  text: "I’m a low-resource language NLP researcher currently pursuing a Master’s degree in Computer Science at Maseno University, Kenya.",
+  text: "I am a Computer Technologist with extensive experience in software development, hardware systems, networking, systems integration, and infrastructure maintenance.",
   link: ''
 },
 {
-  text: "My research focuses on dataset creation, preprocessing, and synthetic data generation for African languages, particularly Swahili and Somali.",
+  text: "My expertise spans end-to-end system implementation, delivering reliable and scalable technology solutions across diverse operational environments.",
   link: ''
 },
 {
-  text: "I leverage sources such as Wikipedia, Hugging Face datasets, and parallel corpora.",
+  text: "Alongside my technical practice, I am actively engaged in research at Maseno University, Kenya focusing on Natural Language Processing (NLP) for low-resource languages.",
   link: ''
 }, 
+     {
+  text: "My work centers on dataset creation, preprocessing pipelines, and synthetic data generation for African languages, particularly Swahili, Somali and kalenjin.",
+  link: ''
+},
+        {
+  text: "     {
+  text: "My work centers on dataset creation, preprocessing pipelines, and synthetic data generation for African languages, particularly Swahili, Somali and kalenjin.",
+  link: ''
+},",
+  link: ''
+},  
   {
     text:"My Skills:  ",
     link:'<a href="skills.html">click here!</a>'
@@ -26,7 +37,7 @@ const textData = [
   },
     {
         text:"Email Address: ",
-        link:'<a href="mailto:i.geekytechie@gmail.com">i.geekytechie@gmail.com</a>'
+        link:'<a href="mailto:joelotachi@gmail.com.com">Click, Mail me !</a>'
     },
     {
         text:"Twitter handle: ",
@@ -34,7 +45,7 @@ const textData = [
     },
     {
       text:"Linkedln Profile: ",
-      link:'<a href="https://www.linkedin.com/in/joel-otachi-79466738a">Linkedin!</a>'
+      link:'<a href="https://www.linkedin.com/in/joel-otachi-79466738a">Click, see my profile !</a>'
     },
      // Add more objects for additional sentences with links
   ];
@@ -65,6 +76,7 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
 
