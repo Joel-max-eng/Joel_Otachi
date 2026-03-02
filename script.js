@@ -68,7 +68,7 @@ const textData = [
       setTimeout(() => {
         // Type the next sentence in the new div element
         typeText(textData[index + 1].text, textData[index + 1].link, index + 1, 0);
-      }, 100); // Time before starting the next sentence (adjust as needed)
+      }, 80); // Time before starting the next sentence (adjust as needed)
     }
   }
   
@@ -76,6 +76,7 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
 
