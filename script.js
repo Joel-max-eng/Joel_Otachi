@@ -12,18 +12,7 @@ const textData = [
   text: "My expertise spans end-to-end system implementation, delivering reliable and scalable technology solutions across diverse operational environments.",
   link: ''
 },
-{
-  text: "Alongside my technical practice, I am actively engaged in research at Maseno University, Kenya focusing on Natural Language Processing (NLP) for low-resource languages.",
-  link: ''
-}, 
-     {
-  text: "My work centers on dataset creation, preprocessing pipelines, and synthetic data generation for African languages, particularly Swahili, Somali and kalenjin.",
-  link: ''
-},
-          {
-  text: "My work centers on dataset creation, preprocessing pipelines, and synthetic data generation for African languages, particularly Swahili, Somali and kalenjin.",
-  link: ''
-},
+
   {
     text:"My Skills:  ",
     link:'<a href="skills.html">click here!</a>'
@@ -73,6 +62,7 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
 
