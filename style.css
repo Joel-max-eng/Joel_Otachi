@@ -4,7 +4,7 @@
   header h{
     color:gold;
     font-weight: bolder;
-    font-size: 16px;
+    font-size: 18px;
   
   }
   h1{
@@ -18,7 +18,7 @@
       
       button {
         padding: 10px 15px;
-        font-size: 16px;
+        font-size: 18px;
         border: none;
         background-color: #007bff;
         color: #fff;
@@ -38,7 +38,7 @@
   header a{
       color:aqua;
       text-decoration: none;
-      font: size 16px;
+      font: size 18px;
   }
   header li{
   list-style-type: none;
@@ -83,4 +83,5 @@
     
   
   
+
 
