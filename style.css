@@ -4,7 +4,7 @@
   header h{
     color:gold;
     font-weight: bolder;
-    font-size: 15px;
+    font-size: 16px;
   
   }
   h1{
@@ -18,7 +18,7 @@
       
       button {
         padding: 10px 15px;
-        font-size: 14px;
+        font-size: 16px;
         border: none;
         background-color: #007bff;
         color: #fff;
@@ -38,7 +38,7 @@
   header a{
       color:aqua;
       text-decoration: none;
-      font: size 14px;
+      font: size 16px;
   }
   header li{
   list-style-type: none;
@@ -54,7 +54,7 @@
   }
   
   span ,p , header , ul {
-      font-size: 16px;
+      font-size: 18px;
       font-family: 'Courier New', Courier, monospace;
       color: white;
       white-space: pre-line;
@@ -83,3 +83,4 @@
     
   
   
+
