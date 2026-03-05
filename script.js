@@ -25,20 +25,20 @@ const textData = [
     link:'<a href="skills.html">click here!</a>'
   },
   {
-    text:"Find Projects have worked on: ",
+    text:"Find Projects have Worked on:  ",
+    link:'<a href="projects.html">click here!</a>'
+  },
+  {
+    text:"View my Github: ",
     link:'<a href="https://github.com/joel-max-eng">Git hub!</a>'
   },
     {
-        text:"Email Address: ",
-        link:'<a href="mailto:joelotachi@gmail.com.com">Click, Mail me !</a>'
-    },
-    {
-        text:"Twitter handle: ",
-        link:'<a href="https://twitter.com/@joel_otachi" target="_blank">@joel_otachi</a>'  
-    },
-    {
       text:"Linkedln Profile: ",
       link:'<a href="https://www.linkedin.com/in/joel-otachi-79466738a">Click, see my profile !</a>'
+    },
+     {
+        text:"Contact me: ",
+        link:'<a href="mailto:joelotachi@gmail.com.com">Click, Mail me !</a>'
     },
      // Add more objects for additional sentences with links
   ];
@@ -69,6 +69,7 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
 
