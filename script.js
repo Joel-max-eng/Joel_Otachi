@@ -34,7 +34,7 @@ const textData = [
   },
     {
       text:"Linkedln Profile: ",
-      link:'<a href="https://www.linkedin.com/in/joel-otachi-79466738a">Click, see my profile !</a>'
+      link:'<a href="https://www.linkedin.com/in/joel-otachi-79466738a">View my profile !</a>'
     },
      {
         text:"Contact me: ",
@@ -69,6 +69,7 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
 
