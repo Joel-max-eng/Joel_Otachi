@@ -4,7 +4,7 @@
   header h{
     color:gold;
     font-weight: bolder;
-    font-size: 20px;
+    font-size: 2.2rem;
   
   }
   h1{
@@ -18,7 +18,7 @@
       
       button {
         padding: 10px 15px;
-        font-size: 20px;
+        font-size: 25px;
         border: none;
         background-color: #007bff;
         color: #fff;
@@ -38,7 +38,7 @@
   header a{
       color:aqua;
       text-decoration: none;
-      font-size: 20px;
+      font-size: 2.2rem;
   }
   header li{
   list-style-type: none;
@@ -53,8 +53,9 @@
       font-weight: bold;
   }
   
-  span ,p , header , ul {
-      font-size: 20px;
+  span ,p , header, ul {
+       font-size: 2.0rem;
+       line-height: 1.6;
       font-family: 'Courier New', Courier, monospace;
       color: white;
       white-space: pre-line;
@@ -64,7 +65,7 @@
       margin-top: 25px;   
   }
   .typing-container {
-      padding-top: 20px;
+      padding-top: 10px;
       float: initial;
   }
   .done{
