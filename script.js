@@ -26,7 +26,7 @@ const textData = [
   },
   {
     text:"Find Projects have Worked on:  ",
-    link:'<a href="projects.html">click here!</a>'
+    link:'<a href="projects.html">View !</a>'
   },
   {
     text:"View my Github: ",
@@ -69,6 +69,7 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
 
