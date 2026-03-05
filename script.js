@@ -1,7 +1,7 @@
 const textData = [
 
      {
-    text:"Hello there !",
+    text:"Hello there! - Read About me",
     link:''
   },
   {
@@ -69,6 +69,7 @@ const textData = [
   typeText(textData[0].text, textData[0].link, 0, 0);
   
   
+
 
 
 
