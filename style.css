@@ -32,7 +32,7 @@
     to bottom right, 
     hsla(240, 1%, 18%, 0.251) 0%, 
     hsla(240, 2%, 11%, 0) 100%
-  ), hsl(240, 2%, 13%);
+  ), #151928;
   --bg-gradient-yellow-1: linear-gradient(
     to bottom right, 
     hsl(45, 100%, 71%) 0%, 
@@ -62,7 +62,7 @@
   --eerie-black-2: #020617;
   --smoky-black: #01030e;
   --white-1: hsl(0, 0%, 100%);
-  --white-2: hsl(0, 0%, 98%);
+  --white-2: rgb(192, 201, 210);
   --orange-yellow-crayola: hsl(45, 100%, 72%);
   --vegas-gold: hsl(45, 54%, 58%);
   --light-gray: hsl(0, 0%, 84%);
@@ -331,7 +331,7 @@ main {
 }
 
 .expertise-card{
-  background: #020617;
+  background: #191c27;
   padding: 18px;
   border-radius: 12px;
   transition: all 0.25s ease;
@@ -345,10 +345,10 @@ main {
 .expertise-card p{
   font-size: 14px;
   line-height: 1.6;
-  color: aliceblue;
+  color: rgb(192, 201, 210);
 }
 .expertise-card{
-  background: #020617;
+  background: #151928;
   padding: 18px;
   border-radius: 10px;
   border-left: 3px solid hsl(45, 100%, 60%);
